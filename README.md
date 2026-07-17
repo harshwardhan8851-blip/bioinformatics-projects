@@ -15,7 +15,7 @@ BioPython, and data analysis one project at a time.
 | Project | Description | Status |
 |---|---|---|
 | [GC Content Analyzer](./gc-content-analyzer) | Validates a DNA sequence and calculates/classifies its GC content | ✅ Complete |
-| DNA Sequence Analyzer | Full nucleotide composition, complementary strand, reverse complement | 🚧 Planned |
+| [DNA Sequence Analyzer](./dna-sequence-analyzer) | Nucleotide composition, GC/AT content, complementary strand, reverse complement | ✅ Complete |
 | Gene Expression Visualizer | Visualizing gene expression data from NCBI datasets using Pandas and Matplotlib | 🚧 Planned |
 | COVID Genome Analyzer | Parsing and analyzing SARS-CoV-2 genome data with BioPython | 🚧 Planned |
 
